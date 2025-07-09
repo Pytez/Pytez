@@ -1,10 +1,10 @@
 <!-- Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Pytez&label=Profile%20views&color=0e75b6&style=flat)
 
-# 👋 Hey, I'm Pytez
+# 👋 Pytez
 
 🎮 Indie Game Dev | 🤖 Automation Enthusiast | 🧠 ML Developer | 🌐 Full-Stack Web Dev  
-I love building **creative tools**, **AI projects**, and **games** that make life cooler and smarter.
+I build **creative tools**, **AI projects**, and **games** that make life cooler and smarter.
 
 ---
 
@@ -55,7 +55,6 @@ I love building **creative tools**, **AI projects**, and **games** that make lif
 
 - 🏅 **Certified Google Play Developer**  
 - 🧑‍💻 **6+ years of coding experience**  
-- 🧪 Passionate about building tools, AI apps, and web platforms  
 - 💼 I build smart things for web, mobile, and automation
 
 ---
@@ -63,8 +62,8 @@ I love building **creative tools**, **AI projects**, and **games** that make lif
 ## 🌍 My Projects & Websites
 
 ### 📌 Websites  
-- 🔗 [dzdstudio.com](https://www.dzdstudio.com) <img src="https://www.dzdstudio.com/favicon.ico" width="16" />
-- 🧪 [wh1sk.com](https://www.wh1sk.com) <img src="https://www.wh1sk.com/assets/website-favicon.ico" width="16" />
+- 🔗 [dzdstudio.com](https://www.dzdstudio.com) <img src="https://www.dzdstudio.com/favicon.ico" width="48" />
+- 🧪 [wh1sk.com](https://www.wh1sk.com) <img src="https://www.wh1sk.com/assets/website-favicon.ico" width="48" />
 
 ### 🎮 itch.io  
 - 🎮 [itch.io Profile](https://pytez.itch.io/)
@@ -72,14 +71,6 @@ I love building **creative tools**, **AI projects**, and **games** that make lif
 ### 🎥 YouTube Channel  
 - 📺 [@pyt3z](https://www.youtube.com/@pyt3z) — Python automation, scraping, faceless coding, tools
 
----
-
-## 📈 GitHub Stats
-
-![Pytez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytez&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pytez&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
