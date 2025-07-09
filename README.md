@@ -62,8 +62,8 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
 ## 🌍 My Projects & Websites
 
 ### 📌 Websites  
-- 🔗 [dzdstudio.com](https://www.dzdstudio.com) <img src="https://www.dzdstudio.com/favicon.ico" width="48" />
-- 🧪 [wh1sk.com](https://www.wh1sk.com) <img src="https://www.wh1sk.com/assets/website-favicon.ico" width="48" />
+- [dzdstudio.com](https://www.dzdstudio.com)
+- [wh1sk.com](https://www.wh1sk.com)
 
 ### 🎮 itch.io  
 - 🎮 [itch.io Profile](https://pytez.itch.io/)
