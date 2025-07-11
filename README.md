@@ -1,5 +1,7 @@
 <!-- Profile View Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Pytez&label=Profile%20views&color=0e75b6&style=flat)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Pytez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 # 👋 Pytez
 
@@ -8,73 +10,126 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Top Skills & Tools
 
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
-![Lua](https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white&style=flat)  
-![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat)
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+</p>
 
-### 🌐 Frontend & Backend  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+### 🌐 Frontend & Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+</p>
 
-### 📊 Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
+### 🛢️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
-### 🧠 AI / ML  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?logo=huggingface&logoColor=black&style=flat)  
-![Gradio](https://img.shields.io/badge/-Gradio-2A2E35?logo=gradio&logoColor=white&style=flat)
+### 🔬 AI / ML / Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
+</p>
 
-### 🤖 Automation / Scraping  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)  
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat)  
-![Playwright](https://img.shields.io/badge/-Playwright-2D2E83?logo=microsoft&logoColor=white&style=flat)  
-![DrissionPage](https://img.shields.io/badge/-DrissionPage-000000?style=flat)
+### 🔧 Tools & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="40"/>
+</p>
 
-### 🎮 Game Dev  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&style=flat)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
+### 📱 Mobile & Android
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Play_Store_badge_EN.svg/512px-Google_Play_Store_badge_EN.svg.png" height="40"/>
+</p>
+
+### 🧪 Automation / Scraping
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/-Playwright-2D2E83?logo=microsoft&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-DrissionPage-000000?style=flat" />
+</p>
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
+</p>
+
+### 🎨 Media & Audio Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/FL_Studio_Logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Audacity_Logo_2019.svg" height="40"/>
+</p>
+
+### 🧪 Hardware & IoT
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" height="40"/>
+</p>
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Stats & Streak
 
-- 🏅 **Certified Google Play Developer**  
-- 🧑‍💻 **6+ years of coding experience**  
-- 💼 I build smart things for web, mobile, and automation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pytez&show_icons=true&theme=tokyonight&hide=contribs,prs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pytez&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pytez&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌍 My Projects & Websites
 
 ### 📌 Websites  
-- [dzdstudio.com](https://www.dzdstudio.com)
-- [wh1sk.com](https://www.wh1sk.com)
+- [🌐 dzdstudio.com](https://www.dzdstudio.com)  
+- [🌐 wh1sk.com](https://www.wh1sk.com)
 
 ### 🎮 itch.io  
-- 🎮 [itch.io Profile](https://pytez.itch.io/)
+- [🎮 itch.io Profile](https://pytez.itch.io/)
 
 ### 🎥 YouTube Channel  
-- 📺 [@pyt3z](https://www.youtube.com/@pyt3z) — Python automation, scraping, faceless coding, tools
-
-
-## 🤝 Let's Connect
-
-> I’m always open to collaborating on cool projects, building something meaningful, or just geeking out on code.
+- [📺 @pyt3z](https://www.youtube.com/@pyt3z) — Python automation, scraping, faceless coding, tools
 
 ---
 
+## 📬 Contact Me
+
+- 📧 pytezw@gmail.com  
+
+---
