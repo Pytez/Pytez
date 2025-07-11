@@ -12,6 +12,7 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
 ---
 
 ## 🚀 Top Skills & Tools
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79243562" height="100"/>
 
 ### 🧠 Programming Languages
 <p align="left">
@@ -69,7 +70,6 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79243562" height="40"/>
 </p>
 
 ### 🧪 Automation / Scraping
