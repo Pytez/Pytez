@@ -7,6 +7,7 @@
 
 🎮 Indie Game Dev | 🤖 Automation Enthusiast | 🧠 ML Developer | 🌐 Full-Stack Web Dev  
 I build **creative tools**, **AI projects**, and **games** that make life cooler and smarter.
+***6+ years in this coding game*** ✨
 
 ---
 
@@ -61,7 +62,6 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="40"/>
 </p>
 
 ### 📱 Mobile & Android
@@ -69,7 +69,7 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Google_Play_Store_badge_EN.svg/512px-Google_Play_Store_badge_EN.svg.png" height="40"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79243562" height="40"/>
 </p>
 
 ### 🧪 Automation / Scraping
@@ -89,8 +89,6 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
 ### 🎨 Media & Audio Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/FL_Studio_Logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Audacity_Logo_2019.svg" height="40"/>
 </p>
 
 ### 🧪 Hardware & IoT
@@ -117,14 +115,14 @@ I build **creative tools**, **AI projects**, and **games** that make life cooler
 ## 🌍 My Projects & Websites
 
 ### 📌 Websites  
-- [🌐 dzdstudio.com](https://www.dzdstudio.com)  
-- [🌐 wh1sk.com](https://www.wh1sk.com)
+- [🟪 dzdstudio.com](https://www.dzdstudio.com)  
+- [🟩wh1sk.com](https://www.wh1sk.com)
 
 ### 🎮 itch.io  
 - [🎮 itch.io Profile](https://pytez.itch.io/)
 
 ### 🎥 YouTube Channel  
-- [📺 @pyt3z](https://www.youtube.com/@pyt3z) — Python automation, scraping, faceless coding, tools
+- [📺 @pyt3z](https://www.youtube.com/@pyt3z) — Python automation, scraping, faceless coding, tools (***Subsribe***)
 
 ---
 
